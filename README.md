@@ -7,4 +7,9 @@
 
 ***texto***
 
+ :smile:
+ :blush:
+ :smiley:
+
+
 hola soy el readme
